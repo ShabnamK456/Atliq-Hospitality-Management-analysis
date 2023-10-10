@@ -22,4 +22,24 @@ Atliq Grand should pqy more attention to customer reviews and ratings and focus 
 
 Conclusion:
 
-The data analysis performed using Power BI. The findings and recommendations can help optimeze operations, enhance customer satisfaction,and drive revenue growth.regular monitoring and analysis of key metrix will ensure continued success in the hotel.
+The data analysis performed using Power BI. The findings and recommendations can help optimize operations, enhance customer satisfaction,and drive revenue growth.regular monitoring and analysis of key metrix will ensure continued success in the hotel.
+
+
+
+![DASHBOARD](https://github.com/ShabnamK456/Atliq-Hospitality-Management-analysis/assets/147409908/56200ff0-b571-4dcc-bbd7-9d8dd6d77365)
+
+
+
+![CHARTS](https://github.com/ShabnamK456/Atliq-Hospitality-Management-analysis/assets/147409908/764744af-0dd8-4a3a-ab63-a5f41572c441)
+
+
+
+![TRENDS BY KEY MATRIX](https://github.com/ShabnamK456/Atliq-Hospitality-Management-analysis/assets/147409908/87dd87b7-4826-4787-b5af-4da00b9a5aae)
+
+
+
+
+
+
+
+
