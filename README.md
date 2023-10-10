@@ -17,7 +17,9 @@ Other travel platforms are the primary booking source,generating 40% of total bo
 The luxury room cqtegory contribites the majority of revenue and Bookings.
 
 Recommendations:
+
 Atliq Grand should pqy more attention to customer reviews and ratings and focus on improving customer satisfaction further by addressing critical areas identified in customer reviews.
 
 Conclusion:
+
 The data analysis performed using Power BI. The findings and recommendations can help optimeze operations, enhance customer satisfaction,and drive revenue growth.regular monitoring and analysis of key metrix will ensure continued success in the hotel.
